@@ -11,9 +11,9 @@ The data has taken as CSV file and uploaded as dataframe. Two columns were added
 
 ## Summary of Findings
 
-> **The distribution of confirmed, recovered and deaths cases shows the epidemy just started around the world and the numbers started to grow.
+> * The distribution of confirmed, recovered and deaths cases shows the epidemy just started around the world and the numbers started to grow.
 
-**These dataset shows 272166 confirmed cases around the world. From them 87256 cases recovered and 11299 cases died. 
+* These dataset shows 272166 confirmed cases around the world. From them 87256 cases recovered and 11299 cases died. 
 
 **The total cases around the world shows exponential trend. It also shows the rate increased more from middle of March. 
 
